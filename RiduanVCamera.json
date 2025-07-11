@@ -1,0 +1,23 @@
+[
+  {
+    "id": "79cb93284e6090c9",
+    "username": "adminriduan",
+    "password": "riduan",
+    "expiresAt": "2100-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "7947bc4b5e0ebffb",
+    "username": "adminriduan",
+    "password": "riduan",
+    "expiresAt": "2100-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
