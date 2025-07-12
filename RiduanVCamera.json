@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "bbf1c448cd691b6d",
+    "username": "adminriduan",
+    "password": "riduan",
+    "expiresAt": "2100-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
