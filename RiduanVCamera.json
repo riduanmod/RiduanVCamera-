@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "79cb93284e6090c9",
+    "username": "AlaminAhmed",
+    "password": "Pass999",
+    "expiresAt": "2025-08-29",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
